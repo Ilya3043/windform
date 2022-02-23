@@ -1,0 +1,15 @@
+E:\Информатика 3 семак\лаба1винда\bin\Debug\лаба1винда.exe.config
+E:\Информатика 3 семак\лаба1винда\bin\Debug\лаба1винда.exe
+E:\Информатика 3 семак\лаба1винда\bin\Debug\лаба1винда.pdb
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.csprojAssemblyReference.cache
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Form1.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Properties.Resources.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.csproj.GenerateResource.cache
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.csproj.CoreCompileInputs.cache
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.exe
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.pdb
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Properties.Form3.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Form3PROG.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Form2CHANGE.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Form4PROG2.resources
+E:\Информатика 3 семак\лаба1винда\obj\Debug\лаба1винда.Form5PROG2.resources
